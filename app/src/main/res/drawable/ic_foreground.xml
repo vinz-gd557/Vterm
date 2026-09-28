@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="108dp"
+    android:width="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Huruf V (Vterm) -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M30,30 L41,30 L54,59 L67,30 L78,30 L59,72 L49,72 Z" />
+
+    <!-- Kursor underscore -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M44,77 h20 v4 h-20 z" />
+
+</vector>

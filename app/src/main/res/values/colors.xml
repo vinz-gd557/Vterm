@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vterm_bg">#FF0B0F14</color>
+    <color name="vterm_accent">#FF22D3EE</color>
+    <color name="vterm_accent_alt">#FFA78BFA</color>
+</resources>

@@ -1,0 +1,5 @@
+Vterm is a modified version of Termux (https://github.com/termux/termux-app).
+Original work Copyright (c) Termux developers, licensed under GPLv3
+(see LICENSE.md). Modifications: branding, icons, theme and color scheme.
+Termux is a trademark/name of its respective owners; Vterm is not
+affiliated with or endorsed by the Termux project.
